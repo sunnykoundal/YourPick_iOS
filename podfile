@@ -1,0 +1,17 @@
+ platform :ios, '9.0'
+
+target ‘YourPick’ do
+
+pod 'Alamofire', '~> 4.0’
+pod 'SwiftR'
+pod 'SDWebImage', '~> 4.0'
+pod 'Fabric'
+pod 'Crashlytics'
+
+use_frameworks!
+pod 'UICircularProgressRing', '~> 1.8.4'
+pod 'FacebookCore'
+pod 'FacebookLogin'
+pod 'FacebookShare'
+
+end
